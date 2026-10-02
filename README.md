@@ -64,7 +64,7 @@ Tasks are added, completed, and deleted without reloading the webpage.
 
 ## 📸 Screenshots
 
-Screenshots can be added here after completing and testing the application.
+![Website Screenshot](Screenshot 2026-10-02 at 12.12.54.png)
 
 ## 📚 Task
 
